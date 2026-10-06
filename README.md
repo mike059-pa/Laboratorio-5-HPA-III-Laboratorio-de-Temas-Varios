@@ -21,12 +21,6 @@ Lab#5-HPA-III/
 ├── Problema4/                  # Factorial mediante recursividad
 ├── Problema5/                  # Simulación de lanzamientos de un dado
 │
-├── images/
-│   ├── problema1.png
-│   ├── problema2.png
-│   ├── problema3.png
-│   ├── problema4.png
-│   └── problema5.png
 │
 └── README.md
 ```
@@ -84,7 +78,8 @@ WHERE nombre = 'Lapiz' OR '1' != '@unam.mx';
 
 ### Captura de la ejecución en SQL Server Management Studio
 
-![Problema 1 — Consultas SQL](images/problema1.png)
+<img width="697" height="712" alt="image" src="https://github.com/user-attachments/assets/215cc6fe-0e28-43f1-b667-29be8304edd6" />
+
 
 ---
 
@@ -134,8 +129,8 @@ la cadena sql es: INSERT INTO productos (Nombre, Precio, Cantidad) VALUES (@Nomb
 ```
 
 ### Captura de la corrida
+<img width="1040" height="116" alt="image" src="https://github.com/user-attachments/assets/3087a567-c207-47e4-9963-3fa9b2ba633f" />
 
-![Problema 2 — Generación dinámica de SQL](images/problema2.png)
 
 ---
 
@@ -190,7 +185,8 @@ El cuadrado de 9 es 81
 
 ### Captura de la corrida
 
-![Problema 3 — Métodos sobrecargados](images/problema3.png)
+<img width="1426" height="477" alt="image" src="https://github.com/user-attachments/assets/cdec9562-4eee-48ef-af77-d008899ec39c" />
+
 
 ---
 
@@ -239,7 +235,8 @@ dotnet run
 
 ### Captura de la corrida
 
-![Problema 4 — Factorial](images/problema4.png)
+<img width="1027" height="447" alt="image" src="https://github.com/user-attachments/assets/3d15c0e7-4676-4b14-977a-08d25b698c2c" />
+
 
 ---
 
@@ -313,7 +310,8 @@ Los valores deberían ser aproximadamente cercanos a **1000 lanzamientos por car
 
 ### Captura de la corrida
 
-![Problema 5 — Simulación del dado](images/problema5.png)
+<img width="777" height="342" alt="image" src="https://github.com/user-attachments/assets/f4f7b455-23e6-4128-b0c2-03c50a2099e0" />
+
 
 ---
 
