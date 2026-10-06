@@ -1,0 +1,14 @@
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\micha\Downloads\TAREAS UTP\3 A├▒o\2 Semestre\HPA III\Nueva carpeta\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
